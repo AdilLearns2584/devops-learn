@@ -1,1 +1,3 @@
 this is a new feature branch
+
+some more code for feature 1
